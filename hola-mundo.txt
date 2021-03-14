@@ -1,6 +1,8 @@
 Hola, mundo!
 
 
+
 Здесь был Петя 
 здесь был Вася 
 
+Lucky was here
