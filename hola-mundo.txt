@@ -2,6 +2,8 @@ Hola, mundo!
 
 master was here
 
+
 Здесь был Петя 
 здесь был Вася 
 
+Lucky was here
